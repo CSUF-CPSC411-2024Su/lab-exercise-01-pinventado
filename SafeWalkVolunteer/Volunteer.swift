@@ -11,6 +11,37 @@ protocol Volunteer: ObservableObject {
     var age: Int { get set }
     var maxHours: Int { get }
 }
+protocol Volunteer: ObservableObject {
+    var name: String { get set }
+    var age: Int { get set }
+    var maxHours: Int { get }
+}
+protocol Volunteer: ObservableObject {
+    var name: String { get set }
+    var age: Int { get set }
+    var maxHours: Int { get }
+}
+protocol Volunteer: ObservableObject {
+    var name: String { get set }
+    var age: Int { get set }
+    var maxHours: Int { get }
+}
+protocol Volunteer: ObservableObject {
+    var name: String { get set }
+    var age: Int { get set }
+    var maxHours: Int { get }
+}
+protocol Volunteer: ObservableObject {
+    var name: String { get set }
+    var age: Int { get set }
+    var maxHours: Int { get }
+}
+protocol Volunteer: ObservableObject {
+    var name: String { get set }
+    var age: Int { get set }
+    var maxHours: Int { get }
+}
+
 
 // TODO: Create a class called SafeWalkVolunteer that implementes the Volunteer protocol.
 
